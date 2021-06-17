@@ -1,0 +1,87 @@
+header{
+    text-align: center;
+    background: #E6E6E6;
+    object-position: center;
+    background-color: #E5E5E5;
+    background: url(../img/imgbanner.jpg) no-repeat center;
+    background-size: cover;
+    color: white;
+    font-family: verdana;
+    
+    }
+
+a:visited {
+    font-size: 50px;
+    color: white;
+    }
+
+header img {
+    border: 5px solid;
+    border-color: #005677;
+}
+    
+
+h1{ background: #C4C4C4;
+    color: #005677;
+    text-align: center;
+    font-size: 20px;
+    font-family: verdana;
+    }
+
+h2{
+    color: #005677;
+    font-family: verdana;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    background: #C4C4C4;
+    }
+
+footer{
+    font-family: verdana;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 84.69%;
+    color: #FFFFFF;;
+    background: #005677;
+    text-align: center;
+    }
+
+footer a{
+    font-family: verdana;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 84.69%;
+    color: #FFFFFF;;
+    background: #005677;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    }
+
+    li{
+        font-family: verdana;
+        font-size: 15px;
+        margin-left: 25px;
+        padding-left: 2pt;
+    }
+
+
+ul{
+    display: inline-table;
+    padding-left: 2pt;
+}
+
+p{
+    font-family: verdana;
+    font-size: 18px;
+}
+
+body{
+    background-color: #FEF9E7;
+}
