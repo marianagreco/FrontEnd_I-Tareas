@@ -1,0 +1,544 @@
+.uno {
+    /* Grandes ofertas en comederos */
+    position: absolute;
+    width: 138px;
+    height: 12px;
+    left: calc(50% - 138px/2 - 353px);
+    top: 4px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+
+    /* identical to box height */
+    color: #F3F3F3;
+
+    /* Rectangle 1 */
+    position: absolute;
+    width: 1024px;
+    height: 60px;
+    left: calc(50% - 1024px/2);
+    top: 0px;
+    background: #222222;
+    }
+
+    ul{
+        list-style: none;
+    }
+
+    .dos{
+        /* Rectangle 3 */
+    position: absolute;
+    width: 1024px;
+    height: 160px;
+    left: calc(50% - 1024px/2);
+    top: 20px;
+
+    background: #F0A83E;
+    }
+
+    .tres{
+        /* Front */
+    position: absolute;
+    width: 57.21px;
+    height: 23px;
+    left: calc(50% - 57.21px/2 - 425.4px);
+    top: 39px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #3C2313;
+    }
+
+    .cuatro{
+        /* Cat&Dog */
+    position: absolute;
+    width: 96.35px;
+    height: 23px;
+    left: calc(50% - 96.35px/2 - 356.82px);
+    top: 39px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+    }
+
+    .placer{
+        position: absolute;
+    width: 345px;
+    height: 35px;
+    left: 658px;
+    top: 246px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+
+    color: #3C2313;
+    }
+
+.comederos{
+    position: absolute;
+    width: 190px;
+    height: 19px;
+    left: 740px;
+    top: 303px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #3C2313;
+}
+
+.comederos2{
+    position: absolute;
+    width: 95px;
+    height: 19px;
+    left: 790px;
+    top: 349px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    text-align: center;
+    color: #FFFFFF;
+
+    position: absolute;
+    width: 141px;
+    height: 49px;
+    left: 767px;
+    top: 334px;
+
+    background: #F0A83E;
+    border-radius: 5px;
+}
+
+.alimento{
+    /*position: absolute;*/
+    width: 1025px;
+    height: 409px;
+    left: calc(50% - 1025px/2 + 0.5px);
+    top: 81px;
+
+    background: url(img\alimento.png);
+}
+
+.productosdestacados{
+    position: absolute;
+    width: 406px;
+    height: 47px;
+    left: 309px;
+    top: 586px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+
+
+    color: #3C2313;
+}
+
+.cac{
+    position: absolute;
+    width: 78px;
+    height: 18px;
+    left: 380px;
+    top: 653px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    
+    
+    color: #666666;}
+
+.churrasquito{
+    position: absolute;
+    width: 265px;
+    height: 268.86px;
+    left: 95px;
+    top: 720px;
+
+    background: url(img\churrasquito.png)
+}    
+
+.juguetechurrasquito{
+    position: absolute;
+    width: 160.54px;
+    height: 19.64px;
+    left: 146.68px;
+    top: 988.86px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #3C2313;
+}
+
+.precio1{
+    position: absolute;
+    width: 38.49px;
+    height: 19.64px;
+    left: 208.26px;
+    top: 1006.92px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #F0A83E;
+}
+
+.comedero{
+    position: absolute;
+    width: 262.03px;
+    height: 266.86px;
+    left: 381.97px;
+    top: 720px;
+    
+    background: url(img\comedero.png);
+}
+
+.perro{
+    position: absolute;
+    width: 159.97px;
+    height: 19.64px;
+    left: 440.41px;
+    top: 986.86px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #3C2313;
+}
+
+.precio2{
+    position: absolute;
+    width: 39.15px;
+    height: 19.64px;
+    left: 500.81px;
+    top: 1004.91px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #F0A83E;
+}
+
+.patita{
+    position: absolute;
+    width: 265px;
+    height: 268.86px;
+    left: 664px;
+    top: 720px;
+
+    background: url(img\patita.png);
+}
+
+.huesito{
+    position: absolute;
+    width: 112.37px;
+    height: 18.97px;
+    left: 739.93px;
+    top: 988.86px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    
+    color: #3C2313;    
+}
+
+.precio3{
+    position: absolute;
+    width: 34.61px;
+    height: 18.06px;
+    left: 779.41px;
+    top: 1006.92px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #F0A83E
+}
+
+
+
+
+
+footer{
+    position: absolute;
+    width: 1024px;
+    height: 20px;
+    left: calc(50% - 1024px/2);
+    bottom: 0px;
+
+    background: #222222;
+
+    position: absolute;
+    width: 186px;
+    height: 12px;
+    left: calc(50% - 186px/2);
+    bottom: 4px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.seccionmarron{
+    position: absolute;
+    width: 1024px;
+    height: 284px;
+    left: calc(50% - 1024px/2);
+    bottom: 17px;
+
+    background: #3C2313;
+}
+
+.localidad{
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: calc(50% - 66px/2 - 409px);
+    bottom: 212px;
+
+    background: #786960;
+    border-radius: 50px;
+
+    position: absolute;
+    left: 6.05%;
+    right: 6.05%;
+    top: 0%;
+    bottom: 0%;
+
+    background: #FFFFFF;
+
+    position: absolute;
+    width: 58px;
+    height: 57px;
+    left: calc(50% - 58px/2 - 409px);
+    bottom: 217px;
+
+    background: #8A8787;
+    border-radius: 29.5px;
+
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: calc(50% - 66px/2 - 409px);
+    bottom: 212px;
+
+    background: #786960;
+    border-radius: 50px;
+
+    position: absolute;
+    left: 35.35%;
+    right: 35.35%;
+    top: 17.77%;
+    bottom: 52.93%;
+
+    background: #FFFFFF;
+
+    position: absolute;
+}
+
+.tel{
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: calc(50% - 66px/2 - 409px);
+    bottom: 126px;
+
+    background: #786960;
+    border-radius: 50px;
+
+    position: absolute;
+    width: 58px;
+    height: 57px;
+    left: calc(50% - 58px/2 - 409px);
+    bottom: 131px;
+
+    background: #8A8787;
+    border-radius: 29.5px;
+
+    position: absolute;
+    left: 52.51%;
+    right: 0.07%;
+    top: 0%;
+    bottom: 52.6%;
+
+    background: #FFFFFF;
+
+    position: absolute;
+    left: 51.7%;
+    right: 18.17%;
+    top: 18.14%;
+    bottom: 51.73%;
+
+    background: #FFFFFF;
+
+    position: absolute;
+    left: 0.07%;
+    right: 6.13%;
+    top: 5.78%;
+    bottom: 0%;
+
+    background: #FFFFFF;
+
+}
+
+.local{
+    position: absolute;
+    width: 88px;
+    height: 23px;
+    left: calc(50% - 88px/2 - 307px);
+    bottom: 255px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+}
+
+.calle{
+    position: absolute;
+    width: 73px;
+    height: 12px;
+    left: calc(50% - 73px/2 - 314.5px);
+    bottom: 243px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+    /* identical to box height */
+
+
+    color: #8A8787;
+}
+
+.tel{
+    position: absolute;
+    width: 80px;
+    height: 23px;
+    left: calc(50% - 80px/2 - 311px);
+    bottom: 169px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+
+}
+
+.numerotel{
+    position: absolute;
+    width: 90px;
+    height: 12px;
+    left: calc(50% - 90px/2 - 306px);
+    bottom: 157px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+    /* identical to box height */
+    
+    
+    color: #8A8787;
+}
+
+.correoe{
+    position: absolute;
+    width: 168px;
+    height: 23px;
+    left: calc(50% - 168px/2 - 267px);
+    bottom: 83px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;   color: #8A8787;
+}
+
+.correo_e{
+    position: absolute;
+    width: 88px;
+    height: 12px;
+    left: calc(50% - 88px/2 - 307px);
+    bottom: 71px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+    /* identical to box height */
+
+
+    color: #8A8787;
+
+}

@@ -1,0 +1,494 @@
+.uno {
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+    color: #F3F3F3;
+
+    position: absolute;
+    width: 1024px;
+    height: 60px;
+    left: calc(0% + 8px);
+    top: 0px;
+    background: #222222; 
+    }
+
+    ul{
+        list-style: none;
+    }
+
+    .dos{
+    position: absolute;
+    width: 1024px;
+    height: 160px;
+    left: calc(8px);
+    top: 60px;
+
+    background: #F0A83E;
+    }
+
+    .tres{
+        
+        /*
+    width: 57.21px;
+    height: 23px;
+    top: 39px;*/
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #3C2313;
+    }
+
+    .cuatro{
+    /* Cat&Dog */
+    /*
+    width: 96.35px;
+    height: 23px;*/
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+    }
+
+    .placer{
+        position: absolute;
+    width: 345px;
+    height: 35px;
+    left: 658px;
+    top: 246px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+
+    color: #3C2313;
+    }
+
+.comederos{
+    position: absolute;
+    width: 190px;
+    height: 19px;
+    left: 740px;
+    top: 303px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #3C2313;
+}
+
+.comederos2{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    text-align: center;
+    color: #FFFFFF;
+
+    position: absolute;
+    width: 141px;
+    height: 49px;
+    left: 767px;
+    top: 334px;
+
+    background: #F0A83E;
+    border-radius: 5px;
+}
+
+.alimento{
+    position: absolute;
+    width: 1025px;
+    height: 409px;
+    left: calc(8px);
+    top: 220px;
+
+    background: url(img\alimento.png);
+}
+
+.productosdestacados{
+    position: absolute;
+    width: 406px;
+    height: 47px;
+    left: 309px;
+    top: 586px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+
+
+    color: #3C2313;
+}
+
+.cac{
+    position: absolute;
+    width: 1078px;
+    height: 18px;
+    left: 380px;
+    top: 680px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    
+    
+    color: #666666;}
+
+.churrasquito{
+    position: absolute;
+    width: 265px;
+    height: 268.86px;
+    left: 95px;
+    top: 720px;
+
+    background: url(img\churrasquito.png)
+}    
+
+.juguetechurrasquito{
+    position: absolute;
+    width: 160.54px;
+    height: 19.64px;
+    left: 146.68px;
+    top: 988.86px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #3C2313;
+}
+
+.precio1{
+    position: absolute;
+    width: 38.49px;
+    height: 19.64px;
+    left: 208.26px;
+    top: 1006.92px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #F0A83E;
+}
+
+.comedero{
+    position: absolute;
+    width: 262.03px;
+    height: 266.86px;
+    left: 381.97px;
+    top: 720px;
+    
+    background: url(img\comedero.png);
+}
+
+.perro{
+    position: absolute;
+    width: 159.97px;
+    height: 19.64px;
+    left: 440.41px;
+    top: 986.86px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #3C2313;
+}
+
+.precio2{
+    position: absolute;
+    width: 39.15px;
+    height: 19.64px;
+    left: 500.81px;
+    top: 1004.91px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #F0A83E;
+}
+
+.patita{
+    position: absolute;
+    width: 265px;
+    height: 268.86px;
+    left: 664px;
+    top: 720px;
+
+    background: url(img\patita.png);
+}
+
+.huesito{
+    position: absolute;
+    width: 112.37px;
+    height: 18.97px;
+    left: 739.93px;
+    top: 988.86px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    
+    color: #3C2313;    
+}
+
+.precio3{
+    position: absolute;
+    width: 34.61px;
+    height: 18.06px;
+    left: 779.41px;
+    top: 1006.92px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #F0A83E
+}
+
+
+
+
+
+footer{
+
+    position: absolute;
+    background: #222222;
+
+    width: 1024px;
+    height: 12px;
+    left: calc(8px);
+    top: 1500px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+    text-align: center;
+    /* identical to box height */
+
+    background-color: #F0A83E;
+    color: #FFFFFF;
+}
+
+.seccionmarron{
+    position: absolute;
+    width: 1024px;
+    height: 400px;
+    left: calc(8px);
+    top: 1100px;
+
+    background: #3C2313;
+}
+
+.localidad{
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: calc(50% - 66px/2 - 409px);
+    bottom: 212px;
+
+    background: #786960;
+    border-radius: 50px;
+
+    position: absolute;
+    left: 6.05%;
+    right: 6.05%;
+    top: 0%;
+    bottom: 0%;
+
+    background: #FFFFFF;
+
+    position: absolute;
+    width: 58px;
+    height: 57px;
+    left: calc(50% - 58px/2 - 409px);
+    bottom: 217px;
+
+    background: #8A8787;
+    border-radius: 29.5px;
+
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: calc(50% - 66px/2 - 409px);
+    bottom: 212px;
+
+    background: #786960;
+    border-radius: 50px;
+
+    position: absolute;
+    left: 35.35%;
+    right: 35.35%;
+    top: 17.77%;
+    bottom: 52.93%;
+
+    background: #FFFFFF;
+
+    position: absolute;
+}
+
+.tel{
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: calc(50% - 66px/2 - 409px);
+    bottom: 126px;
+
+    background: #786960;
+    border-radius: 50px;
+
+    position: absolute;
+    width: 58px;
+    height: 57px;
+    left: calc(50% - 58px/2 - 409px);
+    bottom: 131px;
+
+    background: #8A8787;
+    border-radius: 29.5px;
+
+    position: absolute;
+    left: 52.51%;
+    right: 0.07%;
+    top: 0%;
+    bottom: 52.6%;
+
+    background: #FFFFFF;
+
+    position: absolute;
+    left: 51.7%;
+    right: 18.17%;
+    top: 18.14%;
+    bottom: 51.73%;*/
+
+    background: #FFFFFF;
+
+    position: absolute;
+    left: 0.07%;
+    right: 6.13%;
+    top: 5.78%;
+    bottom: 0%;
+
+    background: #FFFFFF;
+
+}
+
+.local{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+}
+
+.calle{
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+    /* identical to box height */
+
+
+    color: #8A8787;
+}
+
+.numerotel{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+
+}
+
+.numero{
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+    /* identical to box height */
+    
+    
+    color: #8A8787;
+}
+
+.correoe{
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+}
+
+.correo_e{
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+    /* identical to box height */
+
+
+    color: #8A8787;
+
+}
+
+.fas{
+    font-size: 40px;
+    color: #FFFFFF;
+}
